@@ -124,3 +124,4 @@ The Equation Of Time is shaded whenever EoT is negative indicating that apparent
 &nbsp;&nbsp;&nbsp;&nbsp;**python pyalmanac**  
 &nbsp;&nbsp;&nbsp;&nbsp;or  
 &nbsp;&nbsp;&nbsp;&nbsp;**./pyalmanac**
+[![Run on Repl.it](https://repl.it/badge/github/rodegerdts/Pyalmanac)](https://repl.it/github/rodegerdts/Pyalmanac)
